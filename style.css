@@ -47,7 +47,7 @@ body {
     /*background-image: linear-gradient(to right, #f37500 0%, #ffbf1d 51%, #fd9d44 100%);*/
     /*background-image: linear-gradient(to right, #f7ff00 0%, #db36a4 51%, #f7ff00 100%);*/
     /*background-image: linear-gradient(to bottom, #fcff2e 0%, #eeff00);*/
-    background-color: yellow;
+    background-image: linear-gradient( 109.6deg,  rgba(255,219,47,1) 11.2%, rgba(244,253,0,1) 100.2% );
     background-size: 100%;
     color: white;
     box-shadow: 0 4.4px rgba(46, 44, 44, 0.932);
